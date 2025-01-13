@@ -1,1 +1,1 @@
-# merge-together
+# Merging together
